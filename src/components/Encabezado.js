@@ -16,7 +16,7 @@ function Encabezado() {
             </ul>
         </nav>
     </header>
-    )
+    );
 }
 
 export default Encabezado;
